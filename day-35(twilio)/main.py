@@ -1,10 +1,10 @@
 import requests
 from twilio.rest import Client
 
-account_sid = 'ACe49cc55f2445da1c1b100a8b25040a5b'
-auth_token = '62395b0f5000d20e7207f74a9ddcde0e'
+account_sid = '"""'
+auth_token = '"""'
 
-api_key = "26b2690c05559a7396f701113f306e9f"
+api_key = """""
 MY_LAT = 30.592850
 MY_LONG = 114.305542
 
